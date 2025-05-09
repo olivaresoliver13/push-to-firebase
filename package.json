@@ -1,0 +1,17 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "autor": "Oliver Olivares",
+  "scripts": {
+    "push": "node new-push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "firebase-admin": "^13.3.0"
+  }
+}
